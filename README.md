@@ -63,7 +63,7 @@ Prepared by:
 
 Ankit Sharma - HackQubits
 
-MIT iQuHack 2024 Submission
+MIT iQuHack 2025 Submission
 
 
 
